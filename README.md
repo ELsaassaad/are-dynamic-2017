@@ -2,7 +2,9 @@
 
 Vous trouverez dans ce répertoire les informations vous permettant d'aborder la première partie de l'atelier ARE DYNAMIC 2017-2018. 
 
-Le travail s'effectuera dans un **notebook jupyter**. Vous pouvez évidemment coder et tester vos idées en parallèle dans l'environnement Sypder, par exemple. 
+Le travail s'effectuera dans un **notebook jupyter**, qui se trouve dans ce même répertoire github. 
+Pour commencer, vous pouvez faire une copie en local de ce répertoire, en téléchargeant l'archive zip, puis en ouvrant le notebook avec la commande `jupyter notebook`.  
+Vous pouvez ensuite évidemment coder et tester vos idées en parallèle dans l'environnement Sypder, par exemple. 
 
 
 Pour vous familiariser avec les notebooks, vous pouvez consulter les deux... notebooks suivants:
